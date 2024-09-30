@@ -129,7 +129,7 @@ button {
 
 /* RESPONSIVE */
 
-@media (max-height:740px) or (max-width:570px) {
+@media (max-height:740px) or (max-width:1080px) {
 
 
     .page {
