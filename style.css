@@ -149,7 +149,7 @@ button {
         font-size: 26px;
     }
 
-    .name, .pswrd, button, .fg-ps {
+    .name, .pswrd, button, .fg-ps, .nm, .ps {
         width: 12rem;
     }
 
