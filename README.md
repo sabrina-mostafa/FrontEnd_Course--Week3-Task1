@@ -4,7 +4,7 @@
 ## "A Sample Responsive Login-Page Creation using HTML & CSS only"
 <br/>
 
-    live link : https://sabrina-mostafa.github.io/FrontEnd_Course--Week3-Task1/
+    live link : https://sabrina-mostafa.github.io/FrontEnd_Course--Week3-Task1_-Login-Page-/
 
 ## My site is live at :
-https://sabrina-mostafa.github.io/FrontEnd_Course--Week3-Task1/
+https://sabrina-mostafa.github.io/FrontEnd_Course--Week3-Task1_-Login-Page-/
